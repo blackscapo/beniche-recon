@@ -16,7 +16,7 @@ Beniche-recons is a Python-based GUI tool built with Tkinter that allows users t
 
 ## Screenshot
 
-![Screenshot](beniche-recons.png)
+![Screenshot](beniche-recon.png)
 
 ---
 
