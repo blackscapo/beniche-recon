@@ -33,3 +33,52 @@ Beniche-recons is a Python-based GUI tool built with Tkinter that allows users t
 1. Clone the repository:
    ```bash
    git clone https://github.com/blackscapo/beniche-recon.git
+
+    Navigate to the project folder:
+    bash
+    Copy
+
+    cd beniche-recon
+
+    Install the required library:
+    bash
+    Copy
+
+    pip install pyfiglet
+
+Usage
+
+    Run the script:
+    bash
+    Copy
+
+    python beniche_recons.py
+
+    Select a folder containing .txt files.
+
+    Enter a search term (e.g., an email or password).
+
+    View the results in the GUI.
+
+    Optionally, export the results to a .txt file.
+
+Contributing
+
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+
+    Fork the repository.
+
+    Create a new branch (git checkout -b feature/YourFeatureName).
+
+    Commit your changes (git commit -m 'Add some feature').
+
+    Push to the branch (git push origin feature/YourFeatureName).
+
+    Open a pull request.
+
+Author
+blackscapo
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
