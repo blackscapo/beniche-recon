@@ -14,6 +14,12 @@ Beniche-recons is a Python-based GUI tool built with Tkinter that allows users t
 
 ---
 
+## Screenshot
+
+![Screenshot](beniche-recons.png)
+
+---
+
 ## Requirements
 
 - Python 3.x
@@ -26,4 +32,4 @@ Beniche-recons is a Python-based GUI tool built with Tkinter that allows users t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Beniche-recons.git
+   git clone https://github.com/blackscapo/beniche-recon.git
