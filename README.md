@@ -35,23 +35,16 @@ Beniche-recons is a Python-based GUI tool built with Tkinter that allows users t
    git clone https://github.com/blackscapo/beniche-recon.git
 
     Navigate to the project folder:
-    bash
-    Copy
 
     cd beniche-recon
 
     Install the required library:
-    bash
-    Copy
-
+   
     pip install pyfiglet
 
 Usage
 
     Run the script:
-    bash
-    Copy
-
     python beniche_recons.py
 
     Select a folder containing .txt files.
